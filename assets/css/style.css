@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-    font-size: 5.5rem;
+    font-size: 5rem;
     color: #fff;
     margin-bottom: 5rem;
 }
@@ -79,4 +79,18 @@ h2 {
     box-shadow: 0 0.4rem 1.4rem 0 rgba(173, 20, 20, 0.7);
     transition: transform 150ms;
     transform: scale(1);
+}
+
+.btn[disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
+
+#highscore-btn {
+    background: linear-gradient(90deg, rgb(16, 26, 83) 0%, rgb(8, 16, 92) 100%);
+}
+
+#highscore-btn:hover {
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 103, 228, 0.7);
 }
