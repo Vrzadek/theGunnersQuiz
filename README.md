@@ -123,7 +123,7 @@ If you have used any media on your site (images, audio, video etc) you can credi
   
 ##  Acknowledgments
 - My big brother Markus who works as a developer, helped me A lot thru all of this.
-- Love Maths Walkthru project, which gave me help with how to think when implenting JS into a project.
+- Love Maths Walkthru project, which gave me help with how to think when implementing JS into a project.
 - My mentor Antonio Rodriguez for all the help and tips along the way!
-- Kera Cudmore, for all help regarding this Readme-file.
+- Kera Cudmore, for all help regarding this Readme file.
 - Youtube/Stack overflow for helping with everything while stuck somewhere during the process.
