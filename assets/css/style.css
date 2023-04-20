@@ -14,10 +14,11 @@
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     color: rgb(180, 26, 26);
     margin-bottom: 5rem;
     background-color: rgb(221, 220, 220);
+    text-align: center;
 }
 
 h2 {
