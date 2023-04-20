@@ -1,6 +1,10 @@
 /* importing google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
+:root {
+    background: url('/assets/images/arsenal2.jpg') center center;
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -9,19 +13,11 @@
     font-family: 'Roboto Slab', sans-serif;
 }
 
-body {
-    background-image: url('/assets/images/arsenal2.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    display: flex;
-    
-}
-
 h1 {
     font-size: 5rem;
-    color: #fff;
+    color: rgb(180, 26, 26);
     margin-bottom: 5rem;
+    background-color: rgb(221, 220, 220);
 }
 
 h2 {
