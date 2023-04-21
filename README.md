@@ -67,7 +67,7 @@ In this page the user can see the scores of previous saved games alongside the n
 - HTML
   - Gives an error about a charset but I cant find the issue giving it. [W3C validator](https://validator.w3.org/nu/)
   
-  ![HTML Check](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/htmlchecker.png)
+  ![HTML Check]()
 - CSS
   - No errors were found [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
   
