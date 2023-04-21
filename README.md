@@ -28,7 +28,7 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 - HTML
   - Warns about empty heading that serves as a placer for text later. [W3C validator](https://validator.w3.org/nu/)
   
-  ![HTML Check]()
+  ![HTML Check](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/htmlchecker.png)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
   
