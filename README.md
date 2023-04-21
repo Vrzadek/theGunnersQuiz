@@ -17,20 +17,56 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
   * [User stories](#user-stories)
 * [Existing Features](#existing-features)
 * [Features Left to Implement](#features-left-to-implement)
-* [Testing and Bugs](#testing-and-bugs)
 * [Validator Testing](#validator-testing)
 * [Technologies Used](#technologies-used)
 * [Deployment](#deployment)
 * [Credits](#credits)
 
+# Existing Features
+
+### Home section:
+ 
+This is the first part of the quiz that the player will see when visiting. It is designed to allow the player to start playing the quiz with one click. The scores of the previous players can be seen from this window too. Two buttons are displayed here, "Play" and "High Scores" to keep it simple for the user. <br>
+![HomePage](homepagepichere)
+
+### Game section:
+ 
+This section contains the quiz itself. The player is asked to answer 5 questions that are related to the football club Arsenal FC. Each question is randomised and the user can keep track of which question they're on and how many points they have. <br>
+![Quiz Page](quizpagepichere)
+
+Progress/Score bar <br>
+![Progress and score bar]()
+
+Wrong answer <br>
+![Wrong question example image]()
+
+### End section:
+ 
+When the player finishes the quiz, a window displaying the total score will appear. After that the player gets to choose if they want to save their score, play another game or to go back to the home page. <br>
+![End page image]()
+
+### High Scores section:
+ 
+In this page the user can see the scores of previous saved games alongside the name the player choosed. They can also return to the home page.
+
+![Scores page image]()
+
+
+
+# Features Left to Implement
+
+- A timer function
+- With more time, fix the layout a bit more.
+- Adding more questions so that the Quiz will be more challenging.
+
 # Validator Testing 
 
 - HTML
-  - Warns about empty heading that serves as a placer for text later. [W3C validator](https://validator.w3.org/nu/)
+  - Gives an error about a charset but I cant find the issue giving it. [W3C validator](https://validator.w3.org/nu/)
   
   ![HTML Check](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/htmlchecker.png)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+  - No errors were found [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
   
   ![CSS Check](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/jigsawtest.png)
 
@@ -43,16 +79,8 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
   No issues other then that.
 
 ## Full testing
-To fully test my website I did the following tests using different browsers (google chrome, mozilla firefox) and devices (Samsung s21pro).
-I went through each page using google chrome developer tools to ensure that they responsive on all different screen sizes.
-
-Links
-- Tested my social links on index.html, clicking popped out a new tab with the requested site as expected , both on mobile, mozilla, firefox, chrome and opera.
-Game
-- Tried completing the game on above said browsers and it did work like intended, clicked all the buttons and they also work like intended. 
-- Ship drag does work for mobile, did not have time to implement mobile viability into the game after squishing out bugs for a minimal working product.
-- Found a problem where you can click the start game button many times enabling the computer so shoot as many times as you clicked after each turn.
-so I made the button hide until ships are placed on the board and disappear again after being clicked. 
+To fully test my website I did the following tests using different browsers (Google chrome, Internet explorer) and devices (iPhone 12).
+I went through each page using google chrome developer tools to ensure that they were responsive.
 
 
 # Technologies Used
