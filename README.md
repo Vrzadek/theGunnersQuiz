@@ -1,20 +1,11 @@
 # The Gunners Quiz
 A quiz about the greatest football team of all time - Arsenal FC.
 
-![Responsive Mockup]()
+![Responsive Mockup](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/mockuppic.png)
 
-[View The Gunners Quiz on live website](https://johanablomqvist.github.io/Blackbeard-s-Revenge-PP2/)
+[View The Gunners Quiz on live website](https://vrzadek.github.io/theGunnersQuiz)
 
-[View The Gunners Quiz on Github pages](https://github.com/JohanABlomqvist/Blackbeard-s-Revenge-PP2)
-
-Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
-
-Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
-
-If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
-
----
-
+[View The Gunners Quiz on Github pages](https://github.com/Vrzadek/theGunnersQuiz)
 # CONTENTS
 * [User Experience](#user-experience-ux)
   * [User stories](#user-stories)
@@ -30,29 +21,29 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 ### Home section:
  
 This is the first part of the quiz that the player will see when visiting. It is designed to allow the player to start playing the quiz with one click. The scores of the previous players can be seen from this window too. Two buttons are displayed here, "Play" and "High Scores" to keep it simple for the user. <br>
-![HomePage](homepagepichere)
+![HomePage](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/homepage.png)
 
 ### Game section:
  
 This section contains the quiz itself. The player is asked to answer 5 questions that are related to the football club Arsenal FC. Each question is randomised and the user can keep track of which question they're on and how many points they have. <br>
-![Quiz Page](quizpagepichere)
+![Quiz Page](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/gamepage.png)
 
 Progress/Score bar <br>
-![Progress and score bar]()
+![Progress and score bar](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/progressbar.png)
 
 Wrong answer <br>
-![Wrong question example image]()
+![Wrong question example image](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/wronganswer.png)
 
 ### End section:
  
 When the player finishes the quiz, a window displaying the total score will appear. After that the player gets to choose if they want to save their score, play another game or to go back to the home page. <br>
-![End page image]()
+![End page image](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/quizEND.png)
 
 ### High Scores section:
  
 In this page the user can see the scores of previous saved games alongside the name the player choosed. They can also return to the home page.
 
-![Scores page image]()
+![Scores page image](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/highscores.png)
 
 
 
@@ -67,7 +58,7 @@ In this page the user can see the scores of previous saved games alongside the n
 - HTML
   - Gives an error about a charset but I cant find the issue giving it. [W3C validator](https://validator.w3.org/nu/)
   
-  ![HTML Check]()
+  ![HTML Check](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/htmlchecker1.png)
 - CSS
   - No errors were found [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
   
