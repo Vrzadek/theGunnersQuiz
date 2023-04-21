@@ -1,8 +1,11 @@
 # The Gunners Quiz
-
-
-
 A quiz about the greatest football team of all time - Arsenal FC.
+
+![Responsive Mockup]()
+
+[View The Gunners Quiz on live website](https://johanablomqvist.github.io/Blackbeard-s-Revenge-PP2/)
+
+[View The Gunners Quiz on Github pages](https://github.com/JohanABlomqvist/Blackbeard-s-Revenge-PP2)
 
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
