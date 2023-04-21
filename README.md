@@ -1,6 +1,6 @@
 # The Gunners Quiz
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
+
 
 A quiz about the greatest football team of all time - Arsenal FC.
 
@@ -23,7 +23,48 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 * [Deployment](#deployment)
 * [Credits](#credits)
 
+# Validator Testing 
 
+- HTML
+  - Warns about empty heading that serves as a placer for text later. [W3C validator](https://validator.w3.org/nu/)
+  
+  ![HTML Check]()
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+  
+  ![CSS Check]()
+
+- Lighthouse
+
+  ![Lighthouse check]()
+
+- JavaScript
+  -  Got warning's about missing semicolon's and  using const saying:'const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz).
+  No issues other then that.
+
+## Full testing
+To fully test my website I did the following tests using different browsers (google chrome, mozilla firefox) and devices (Samsung s21pro).
+I went through each page using google chrome developer tools to ensure that they responsive on all different screen sizes.
+
+Links
+- Tested my social links on index.html, clicking popped out a new tab with the requested site as expected , both on mobile, mozilla, firefox, chrome and opera.
+Game
+- Tried completing the game on above said browsers and it did work like intended, clicked all the buttons and they also work like intended. 
+- Ship drag does work for mobile, did not have time to implement mobile viability into the game after squishing out bugs for a minimal working product.
+- Found a problem where you can click the start game button many times enabling the computer so shoot as many times as you clicked after each turn.
+so I made the button hide until ships are placed on the board and disappear again after being clicked. 
+
+
+# Technologies Used
+## Languages Used
+- HTML, CSS and JavaScript were used to create this website.
+
+## Frameworks, Media, Libraries & Programs Used
+
+- CodeAnywhere - For version control.
+- Github - To save and store the files for the website.
+- Google Fonts - To import the fonts used on the website.
+- [Am I Responsive?](https://ui.dev/amiresponsive) - Used to make the mockup picture for the Readme.
 
 
 # Deployment
