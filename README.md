@@ -16,6 +16,21 @@ A quiz about the greatest football team of all time - Arsenal FC.
 * [Deployment](#deployment)
 * [Credits](#credits)
 
+# User Experience (UX)
+
+- The Gunners Quiz is the very first project Viktor has made in JavaScript, made a simple nice looking quiz about my favorite team - Arsenal FC. For other Arsenal/football/sports fans to enjoy as much as myself.
+
+## User Stories
+
+### First time visitor goals
+- I hope they find it fun and entertaining do complete the quiz.
+- Easy looking simple but yet addicting quiz.
+
+### Returning visitor goals
+- People coming back as I make improvements such as adding a timer, more questions and so on.
+- The visitors looking in to my other projects.
+- Maybe getting job offerings from it.
+
 # Existing Features
 
 ### Home section:
@@ -44,7 +59,6 @@ When the player finishes the quiz, a window displaying the total score will appe
 In this page the user can see the scores of previous saved games alongside the name the player choosed. They can also return to the home page.
 
 ![Scores page image](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/highscores.png)
-
 
 
 # Features Left to Implement
