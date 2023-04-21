@@ -32,11 +32,11 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
   
-  ![CSS Check]()
+  ![CSS Check](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/jigsawtest.png)
 
 - Lighthouse
 
-  ![Lighthouse check]()
+  ![Lighthouse check](https://github.com/Vrzadek/theGunnersQuiz/blob/main/assets/images/lighthouse%20test.png)
 
 - JavaScript
   -  Got warning's about missing semicolon's and  using const saying:'const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz).
