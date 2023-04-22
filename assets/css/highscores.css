@@ -6,7 +6,9 @@ body {
 #highScoresList {
     list-style: none;
     margin-bottom: 4rem;
-    background: red;
+    background: rgba(0,0,0, 0.7);
+    min-width: 200px;
+    text-align: center;
 }
 
 .high-score {
