@@ -105,14 +105,13 @@ I went through each page using google chrome developer tools to ensure that they
 
 ## Testing User Stories
 Results: 
-- As a user, the interactive buttons highlight when my cursor is above them.
-- As a user, the balanced neutral tones of the website do not strain my eyes.
-- As a user, the selection of questions introduce me to trivia and new film titles.
+- As a user, the interactive buttons will be highlighted when my cursor is above them.
+- As a user, the selection of questions introduce me to football and Arsenal as a club.
 - As a user, the linear and consistent webpage is easy to navigate. 
 - As a user, there is an aspect of competition through the games score and leaderboard system.
 - As a user, I can see the visible colour changes that indicate correct or incorrect answers. 
-- As a user, I am free to type whatever I choose in the text box accompanying my score.
-- As a user, I can click the scoreboard icon to view the leaderboard.
+- As a user, I am free to type whatever I choose in the text box to save my score.
+- As a user, I can click the highscores button to view the leaderboard.
 
 
 # Technologies Used
