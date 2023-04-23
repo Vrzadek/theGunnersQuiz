@@ -86,9 +86,33 @@ In this page the user can see the scores of previous saved games alongside the n
   -  Got warning's about missing semicolon's and  using const saying:'const' is available in ES6 (use 'esversion: 6') or Mozilla JS extensions (use moz).
   No issues other then that.
 
-## Full testing
+# Full testing
 To fully test my website I did the following tests using different browsers (Google chrome, Internet explorer) and devices (iPhone 12).
 I went through each page using google chrome developer tools to ensure that they were responsive.
+
+## Manual Testing
+|  Feature | Expectation | Action | Result|
+|-------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------------------------------------|
+| **Play Button** | Game page will open when clicked | Click Play Icon | Game page opened when clicked |
+| **Answer Button** | The button of the answer selected will turn black for incorrect or green for correct when clicked | Click Answer Button | The answer will turn out the respective color and next question will open when clicked |
+| **Enter your name field** | If the text box is left blank, the user can't save the score | Incomplete form | The text does not submit and is the score is not saved|
+| **Save button** | The save submit button can be clicked if the user entered their name | Name and score saved | Name and score saved in Players Scores
+| **Play Again Button** | Game page will open when clicked | Click Play Again Icon | Game page opened when clicked |
+| **High Scores Button** | The High Scores will open when clicked | Click High Scores button | Taken to High Scores page |
+| **Go Home Button** | To go to Home page | Click on Home icon | Home page opens up when clicked|
+
+<br>
+
+## Testing User Stories
+Results: 
+- As a user, the interactive buttons highlight when my cursor is above them.
+- As a user, the balanced neutral tones of the website do not strain my eyes.
+- As a user, the selection of questions introduce me to trivia and new film titles.
+- As a user, the linear and consistent webpage is easy to navigate. 
+- As a user, there is an aspect of competition through the games score and leaderboard system.
+- As a user, I can see the visible colour changes that indicate correct or incorrect answers. 
+- As a user, I am free to type whatever I choose in the text box accompanying my score.
+- As a user, I can click the scoreboard icon to view the leaderboard.
 
 
 # Technologies Used
